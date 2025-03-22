@@ -13,32 +13,6 @@ Comprehensive Analysis of IPL Data and Predictive Modeling of Match Outcomes Usi
 ✔️ **Predictive Model for IPL 2025 Winner**  
 ✔️ **Machine Learning & Deep Learning Approaches**  
 ✔️ **Visualizations for Key Statistics**
-## Demo
-
-
-
-
-## Roadmap
-
-- Setting up Android Studio and firebase
-
-- Authentication
-
-- Student's Portal
-
-- Quiz
-
-- Result board
-## Tech Stack
-
-**Android Studio**
-
-**Kotlin**
-
-**Firebase Database**
-
-**Android Emulator**
-
 
 ##📌 Project Overview
 
@@ -46,11 +20,11 @@ Comprehensive Analysis of IPL Data and Predictive Modeling of Match Outcomes Usi
 This project aims to analyze **IPL (Indian Premier League) data from 2008 to 2024** and build a **machine learning model** to predict the potential winner of **IPL 2025**. It includes **exploratory data analysis (EDA)**, key insights on teams and players, and a predictive model using **ML techniques like Random Forest**.
 
 
-
 ##  📊 Dataset Information  
 The project uses two primary datasets:  
 - `matches.csv` → Match-level data   
-- `deliveries.csv` → Ball-by-ball data 
+- `deliveries.csv` → Ball-by-ball data
+- 
 ## 🏆 Machine Learning Model  
 ### 🔹 Algorithms Used:  
 - **Logistic Regression**  
@@ -61,10 +35,12 @@ The project uses two primary datasets:
 - Precision, Recall & F1-Score  
 - Confusion Matrix  
 - Feature Importance Analysis
+- 
 ## 🚀 Results & Insights  
 - **Top Performing Teams & Players** across IPL history.  
 - **Match-winning factors:** Toss impact, home advantage, powerplay & death overs analysis.  
 - **Predicted IPL 2025 winner** based on historical trends & ML model.
+- 
 ## ⚡ Technologies Used  
 - **Python** 
 
@@ -85,7 +61,7 @@ The project uses two primary datasets:
 - **Jupyter Notebooks:** For creating and sharing documents that contain live code, equations, visualizations, and narrative text.
 
 ### Serialization Tool:
-- **Pickle:** For saving and loading trained machine learning models efficiently.
+- **Pickle:** For efficiently saving and loading trained machine learning models.
 
  
 
